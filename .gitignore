@@ -1,0 +1,40 @@
+# 数据集压缩包
+*.zip
+
+# 训练和测试图片目录（太大，不提交到Git）
+train/
+test/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# 日志文件
+*.log
+nohup.out
+
+# 临时文件
+*.pid
+.DS_Store
+*.swp
+*.swo
+
+# 输出文件（可按需调整）
+submission.csv
+
+# 虚拟环境
+venv/
+env/
+.venv/
