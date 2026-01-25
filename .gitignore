@@ -34,6 +34,14 @@ nohup.out
 # 输出文件（可按需调整）
 submission.csv
 
+# 数据集CSV文件（通过其他方式传输）
+train.csv
+test.csv
+sample_submission.csv
+
+# kaggle_dataset 目录
+kaggle_dataset/
+
 # 虚拟环境
 venv/
 env/
