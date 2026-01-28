@@ -4,7 +4,16 @@
       "Bash(python:*)",
       "Bash(git init:*)",
       "Bash(git config:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "Bash(git stash pop:*)",
+      "Bash(~/.git-credentials)",
+      "Bash(ssh:*)",
+      "Bash(scp:*)"
     ]
   }
 }
